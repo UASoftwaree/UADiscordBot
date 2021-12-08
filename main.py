@@ -46,7 +46,7 @@ async def on_ready():
 async def help(ctx):
     em = discord.Embed(
       title="",
-      description="__**[RoNetwork](https://daulric.repl.co)**__ by **[@daulric](https://twiiter.com/daulric)**",
+      description="__**[RoNetwork](https://daulric.tk)**__ by **[@daulric](https://twiiter.com/daulric)**",
       color=discord.Color.red())
     
     em.set_thumbnail(url=ctx.guild.icon_url)
