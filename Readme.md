@@ -1,9 +1,7 @@
 # Features
-Roblox using the RoPy Api
+Roblox using the RoPy Api.
 
-Discord Commands like any other discord bots
-
-Other Apis
+Discord Commands like any other discord bots.
 
 # Policy
-Please follow our [Policy](https://daulric.tk/policy)
+Please follow our **[Policy](https://daulric.tk/policy)**
